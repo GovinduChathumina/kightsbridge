@@ -1,16 +1,16 @@
 #Install
-1.clone the project
-2.run composer install
-3.run php artisan key:generate
-4.run php artisan migrate
-5.run php artisan serve
+1.clone the project<br>
+2.run composer install<br>
+3.run php artisan key:generate<br>
+4.run php artisan migrate<br>
+5.run php artisan serve<br>
 
 #API
--create product-
-/store-product
+-create product-<br>
+/store-product<br>
 
--create category-
-/store-category
+-create category-<br>
+/store-category<br>
 
--create seller-
+-create seller-<br>
 /store-seller
